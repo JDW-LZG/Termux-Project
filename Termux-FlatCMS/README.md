@@ -188,13 +188,13 @@ localhost:8080
 ```
 
 (se hai seguito alla lettera i passaggi sino a qui, puoi saltare questo passagio, infatti ti basta cliccare sul link nella pagina aperta nel tuo Browser Web per vedere le info relative a PHP)
-Per vedere le info su quale versione di PHP è installata nella barra degli indirizzi del Browser Web(ad esempio Chrome) sul tuo Dispositivo Android scrivere
+Per vedere le info su quale versione di PHP è installata nella barra degli indirizzi del Browser Web(ad esempio Chrome) sul tuo Dispositivo Android, scrivere
 
 ```
-localhost:8080/phpinfo/
+localhost:8080/phpinfo.php
 ```
 
-Se tutto funziona possiamo procedere con l'installazione di un FlatCMS sul nostro Web Server flessibile e portatile.
+Se tutto funziona possiamo procedere con l'installazione di uno o più FlatCMS sul nostro Web Server flessibile e portatile.
 
 ###### Installare un FlatCMS
 
