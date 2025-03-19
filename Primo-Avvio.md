@@ -4,7 +4,7 @@ Tutte le operazioni possono essere eseguite direttamente sul Dispositivo Android
 
 Utilizza uno dei metodi alternativi qui elencati o combinali tra loro (ad esempio, io utilizzo la combinazione tra **SCRCPY** e **OpenSSH** )
 
-- Utilizzare [SCRCPY]([GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)) per controllare il Dispositivo Android da PC (Windows, Linux, MacOS)
+- Utilizzare [SCRCPY](https://github.com/Genymobile/scrcpy) per controllare il Dispositivo Android da PC (Windows, Linux, MacOS)
 
 - Collegamento SSH tra Dispositivo Android e Computer (Windows, Linux, MacOS)
 
