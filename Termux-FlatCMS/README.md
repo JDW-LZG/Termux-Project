@@ -10,7 +10,8 @@ Utilizza uno dei metodi alternativi qui elencati o combinali tra loro (ad esempi
 
 - Utilizzare una Tastiera BT con il Dispositivo Android
 
-  NB. Presumo tu abbia fatto le operazioni iniziali in Termux(quello che chiamo <a href="https://github.com/JDW-LZG/Termux-Project/blob/main/Primo-Avvio.md">Primo Avvio</a>)
+
+NB. Presumo tu abbia fatto le operazioni iniziali in Termux(quello che chiamo <a href="https://github.com/JDW-LZG/Termux-Project/blob/main/Primo-Avvio.md">Primo Avvio</a>)
 
 # <mark>Termux FlatCMS</mark>
 
