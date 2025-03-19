@@ -70,8 +70,4 @@ termux-setup-storage
 nala install sl neofetch
 ```
 
-Video Preview di quello descritto in questa pagina
-
-<div>
-<video src="https://www.youtube.com/watch?v=vJiY9_Ca0wg" width="640" height="480" controls></video>
-</div>
+<a href="https://www.youtube.com/watch?v=vJiY9_Ca0wg">Video Preview di quello descritto in questa pagina</a>
